@@ -1,4 +1,4 @@
-const rangeMax = 10;
+const rangeMax = 100;
 let secretNumber = generateRandonNumber(rangeMax);
 let attempts = 1;
 // console.log(secretNumber)
